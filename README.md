@@ -1,6 +1,6 @@
 # voidkrunker
 # How to install
-- Download [Zipfile](https://github.com/undefined-developer/voidkrunker/master/voidkrunker.zip).
+- Download [Zipfile](https://github.com/undefined-developer/voidkrunker/raw/master/voidkrunker.zip).
 - Extract Zipfile.
 - Open `chrome://extensions/` in chrome.
 - Enable Developer Mode.
